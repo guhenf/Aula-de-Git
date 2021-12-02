@@ -1,3 +1,4 @@
 Meu nome é Gustavo.
 Tenho 23 anos.
 Moro em Piracicaba - São Paulo.
+Estou estudando Programação na Kenzie Academy.
